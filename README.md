@@ -1,7 +1,7 @@
 # LoennPieMenus
 This plugin for the celeste mapping tool Lönn brings over the infamously useful pie menus from blender to Lönn.
 
-TLDR:
+**TLDR:
 tab: tool selection
 tab+lctrl: layer selection
 tab+lshift: mode selection
@@ -31,3 +31,4 @@ i do not reccomend using this for anything else than the brush tools, because ri
 DO NOT USE THIS FOR DECALS. THE LIST OF DECALS IS SEVERAL THOUSANDS OF ENTRIES, AND IT WILL BRING YOU PC TO LESS THAN 10FPS
 
 This tool is still in development, please reprt any bugs or crashes you find. please add the crash report.
+**
